@@ -14,12 +14,6 @@ The application consists of an Express REST API that is consumed by a VueJS Sing
 This repository can be used via cloning the code base or copying it as a GitHub template. The process is identical excluding the first step:s
 
 ```sh
-# clone this repository
-git clone git@github.com:aturingmachine/mevn-stack.git [directory-name]
-
-# or click "use this template" and clone your new repo
-git clone <your-repo>
-
 # run the setup script
 npm run setup
 
